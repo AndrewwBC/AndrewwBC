@@ -1,5 +1,6 @@
-# About:
-<h1>Hi 👋, I'm Andrew Campos</h1>
+# Hello! 👋
+
+<h1>I'm Andrew Campos</h1>
 <h3>A passionate developer from Brazil</h3>
 
 <p> JavaScript | TypeScript | AWS | Java | Spring Boot | React | HTML | CSS </p>
