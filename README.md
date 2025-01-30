@@ -1,7 +1,7 @@
 # Hello! 👋
 
 <h1>I'm Andrew Campos</h1>
-<h3>A passionate developer from Brazil</h3>
+<h3>A passionate web developer from Brazil</h3>
 
 <p> JavaScript | TypeScript | AWS | Java | Spring Boot | React </p>
 
