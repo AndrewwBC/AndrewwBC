@@ -5,7 +5,7 @@
 ## My name is Andrew Campos
 ### A passionate web developer from Brazil
 
-<p>  Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud </p> 🚀
+<p>Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud 🚀 </p>
 
 🎓 Technologist in Sistems to Internet - Federal Institute of Rio Grande do Sul
 
