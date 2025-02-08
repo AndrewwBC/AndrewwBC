@@ -1,8 +1,5 @@
 # Hello! 👋
 
-<hr style="border: 1px solid lightgray;">
-
-
 <h1>I'm Andrew Campos</h1>
 <h3>A passionate web developer from Brazil</h3>
 
