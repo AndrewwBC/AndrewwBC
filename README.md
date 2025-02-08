@@ -3,7 +3,7 @@
 <h1>I'm Andrew Campos</h1>
 <h3>A passionate web developer from Brazil</h3>
 
-<p> JavaScript | TypeScript | Oracle Cloud | Java | Spring Boot | React </p>
+<p>  Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud </p>
 
 🎓 internet systems technologist - Federal Institute of Rio Grande do Sul
 
