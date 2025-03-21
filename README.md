@@ -7,5 +7,5 @@
 
 <p>Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud 🚀 </p>
 
-🎓 Technologist in Systems to Internet - Federal Institute of Rio Grande do Sul
+🎓 Systems to Internet Technologist - Federal Institute of Rio Grande do Sul
 
