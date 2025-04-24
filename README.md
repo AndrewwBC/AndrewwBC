@@ -8,4 +8,4 @@
 <p>Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud 🚀 </p>
 
 🎓 Systems to Internet Technologist - Federal Institute of Rio Grande do Sul
-
+🎓 I'm currently pursuing a master's degree in Natural Language Processing at UFPel (Federal University of Pelotas).
