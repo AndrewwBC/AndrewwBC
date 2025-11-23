@@ -9,4 +9,4 @@
 
 🎓 Technologist degree in Internet Systems at IFSul (Federal Institute of Rio Grande do Sul).
 
-🎓 I'm currently pursuing a master's degree in Natural Language Processing at UFPel (Federal University of Pelotas).
+🎓 I'm currently pursuing a master's degree in Computer Science at UFPel (Federal University of Pelotas).
