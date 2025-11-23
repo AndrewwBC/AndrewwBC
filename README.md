@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-campos-266bb420a) 
 
-## My name is Andrew Campos - 25
+## My name is Andrew Campos
 ### Web developer from Brazil
 
 <p>Spring Boot | React | Styled-Components | TypeScript | PostgreSQL | Oracle Cloud 🚀 </p>
